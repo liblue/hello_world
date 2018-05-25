@@ -2,7 +2,7 @@
     "name": "liblue/hello_world",
     "description": "hello_world",
     "type": "project",
- 
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
