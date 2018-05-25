@@ -1,0 +1,8 @@
+{
+    "name": "liblue/hello_world",
+    "description": "hello_world",
+    "type": "project",
+    "license": "1",
+    "minimum-stability": "dev",
+    "require": {}
+}
