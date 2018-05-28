@@ -6,7 +6,8 @@
     "minimum-stability": "dev",
      "autoload": {
     "psr-4": {
-      "Mcrypt\\": "src/Mcrypt/"
+      "Yjc\\Sms\\": "vendor/yjc/src/Sms"
+
     }
   },
 	
